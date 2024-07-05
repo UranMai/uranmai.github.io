@@ -195,6 +195,73 @@ body {
     color: #0056b3;
 }
 
+/*  */
+#bioinformatics_guides {
+    margin: 20px;
+}
+.menu-category-name {
+    font-size: 24px;
+    margin-bottom: 20px;
+    padding-left: 20%;
+    text-align: left;
+}
+.menu-category-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
+    gap: 10px;
+    list-style-type: none;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.menu-item {
+    /* border: 1px solid #ddd; */
+    /* border-radius: 8px; */
+    /* padding-left: 20%; */
+    text-align: left;
+    line-height: 0.5;
+    /* background-color: #fff; */
+    /* box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); */
+}
+.menu-item::after {
+    content: "";
+    position: absolute;
+    left: 20%;
+    bottom: -80px;
+    width: 60%;
+    height: 1.5px;
+    background: #ddd;
+}
+.menu-item:last-child::after {
+    display: none; /* Hide the line after the last item */
+}
+.menu-item-info {
+    display: flex;
+    flex-direction: column;
+}
+.menu-item-name {
+    font-size: 18px;
+    margin: 0 0 10px 0;
+}
+.menu-item-price {
+    color: #4f0ee6;
+    font-size: 16px;
+    /* margin-bottom: 10px; */
+    /* line-height: 0.5; */
+}
+.menu-item-price a {
+    color: #0c2aeb;
+    text-decoration: none;
+    /* margin-right: 10px; */
+    /* line-height: 0.1; */
+}
+.menu-item-description {
+    font-size: 16px;
+    color: #666;
+    line-height: 1.2;
+    max-width: 300px;
+}
+
+
 
 /* cv.html */
 
