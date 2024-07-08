@@ -106,11 +106,14 @@ body {
 }
 
 .intro-text {
-    max-width: 600px;
+    font-size: 18px;
+    max-width: 700px;
     margin: auto;
     padding: 20px;
+    margin-top: 50px;
     text-align: center;
-    color: #2E475D;
+    text-align: justify;
+    color: #000000;
 }
 
 /* Projects page*/
@@ -133,9 +136,9 @@ body {
 
 .projects-intro-text {
     max-width: 600px;
-    margin: auto;
-    padding: 20px;
-    text-align: center;
+    margin-top: 50px;
+    padding-left: 21%;
+    text-align: left;
     color: #2E475D;
 }
 
@@ -225,14 +228,17 @@ body {
 .menu-item::after {
     content: "";
     position: absolute;
+    /* position: fixed; */
     left: 20%;
-    bottom: -80px;
+    /* bottom: 0px; */
     width: 60%;
     height: 1.5px;
     background: #ddd;
+    display: none;
 }
 .menu-item:last-child::after {
-    display: none; /* Hide the line after the last item */
+    display: inline;
+    /* display: none; Hide the line after the last item */
 }
 .menu-item-info {
     display: flex;
@@ -261,7 +267,40 @@ body {
     max-width: 300px;
 }
 
+/* publications.html */
+.publications-header-text {
+    font-size: 24px;
+    margin-bottom: 20px;
+    padding-left: 20%;
+    text-align: left;
+}
 
+.publications-list {
+    font-size: 16px;
+    margin-bottom: 20px;
+    padding-left: 20%;
+    text-align: left;
+    line-height: 0.4;
+}
 
 /* cv.html */
+.cv-header-text {
+    font-size: 24px;
+    margin-bottom: 20px;
+    padding-left: 20%;
+    text-align: left;
+}
 
+
+
+
+
+
+
+.center-text {
+    text-align: center;
+    font-size: 22px;
+}
+.justify-text {
+    text-align: justify;
+}
