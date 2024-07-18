@@ -13,7 +13,7 @@ body {
 .profile-header {
     height: 60vh;
     width: 100%;
-    background-image: url('../images/background1.jpeg');
+    /* background-image: url('../images/background1.jpeg'); */
     background-size: cover;
     background-color: #316bb7;
     background-position: center top;
@@ -29,14 +29,14 @@ body {
 }
 
 .profile-picture {
-    /* top: 50%; */
-    width: 20vh;
-    height: 20vh;
+    width: 22vh;
+    height: 22vh;
     border-radius: 50%;
     object-fit: cover;
     border: 5px solid #fff;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     margin-bottom: 10px;
+    /* position: absolute; */
 }
 
 .profile-header h1 {
