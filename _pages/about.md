@@ -6,7 +6,7 @@ subtitle: <a href='#'>PhD student at Rutgers Health</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: photo.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Rutgers Health</p>
