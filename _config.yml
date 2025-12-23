@@ -7,7 +7,7 @@ first_name: Uran
 middle_name: 
 last_name: Maimekov
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Feel to reach out via email or social profiles!
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
