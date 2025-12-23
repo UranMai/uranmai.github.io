@@ -380,12 +380,10 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-i-interned-as-translational-reseach-scientist-in-immunology-discovery-group-at-johnson-and-johnson",
+          title: 'I interned as Translational Reseach Scientist in Immunology Discovery group at Johnson and...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-i-joined-alma-ai-inc-startup-as-an-intern",
+          section: "News",},{id: "news-i-joined-alma-ai-inc-startup-as-an-intern",
           title: 'I joined Alma AI, Inc. startup as an intern.',
           description: "",
           section: "News",},{id: "projects-project-1",
