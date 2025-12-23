@@ -377,10 +377,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-i-interned-as-translational-reseach-scientist-in-immunology-discovery-group-at-johnson-and-johnson",
+            },},{id: "news-i-interned-as-translational-reseach-scientist-in-immunology-discovery-group-at-johnson-and-johnson",
           title: 'I interned as Translational Reseach Scientist in Immunology Discovery group at Johnson and...',
           description: "",
           section: "News",},{id: "news-i-joined-alma-ai-inc-startup-as-an-intern",
