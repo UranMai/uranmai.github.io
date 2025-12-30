@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>PhD student at Rutgers Health</a>. 
+# subtitle: <a href='#'>PhD student at Rutgers Health</a>. 
+subtitle: PhD student at Rutgers Health 
 
 profile:
   align: right
@@ -26,8 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a fourth year PhD student in Bioinformatics and Computational Biology at Rutgers University, advised by Prof. Antonina Mitrofanova. I work on building machine learning models based on molecular mechanisms for novel biomarker discovery of cancer progression and treatment response. 
+I am a fourth year PhD student in Bioinformatics and Computational Biology at Rutgers University, advised by Prof. Antonina Mitrofanova. I work on building machine learning models based on molecular mechanisms for novel biomarker discovery of cancer progression and treatment response. (more about research)
 
-Before joining Rutgers, I graduated bachelors and masters in applied physics and math program. at Moscow Institute of Physics and Technology. 
+Before joining Rutgers, I graduated bachelors and masters in applied physics and math program at Moscow Institute of Physics and Technology. 
+
+Outside of research, I like to participate in ML competitions on Kaggle platform (link).
+
+In my free time, I love exercising (gym, swimming, running) and mountain hiking.
 
 Here is my <i class="ai ai-google-scholar-square"></i> [Google Scholar]() and <i class="fa-brands fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/uran-maimekov/).

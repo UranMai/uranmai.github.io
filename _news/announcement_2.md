@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-05-15
+date: 2025-05-16
 inline: true
 related_posts: false
 ---
 
-I interned as Translational Reseach Scientist in Immunology Discovery group at Johnson and Johnson
+Joined as Translational Reseach Scientist intern in Immunology Discovery group at Johnson and Johnson. 

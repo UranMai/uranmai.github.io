@@ -6,4 +6,4 @@ related_posts: false
 minify: false
 ---
 
-I joined Alma AI, Inc. startup as an intern.
+Excited to join Alma AI, Inc. startup in drug design  as an intern.
