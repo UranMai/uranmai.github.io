@@ -9,7 +9,21 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "post-a-post-with-plotly-js",
+  },{id: "nav-publications",
+          title: "publications",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/publications/";
+          },
+        },{id: "nav-cv",
+          title: "cv",
+          description: "Summary of relevant research and industry experience.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
+          },
+        },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -377,11 +391,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-interned-as-translational-reseach-scientist-in-immunology-discovery-group-at-johnson-and-johnson",
-          title: 'I interned as Translational Reseach Scientist in Immunology Discovery group at Johnson and...',
+            },},{id: "news-joined-as-translational-reseach-scientist-intern-in-immunology-discovery-group-at-johnson-and-johnson",
+          title: 'Joined as Translational Reseach Scientist intern in Immunology Discovery group at Johnson and...',
           description: "",
-          section: "News",},{id: "news-i-joined-alma-ai-inc-startup-as-an-intern",
-          title: 'I joined Alma AI, Inc. startup as an intern.',
+          section: "News",},{id: "news-excited-to-join-alma-ai-inc-startup-in-drug-design-as-an-intern",
+          title: 'Excited to join Alma AI, Inc. startup in drug design as an intern....',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
