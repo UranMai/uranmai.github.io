@@ -27,11 +27,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a fourth year PhD student in Bioinformatics and Computational Biology at Rutgers University, advised by Prof. Antonina Mitrofanova. I work on building machine learning models based on molecular mechanisms for novel biomarker discovery of cancer progression and treatment response. (more about research)
+I am a fourth year PhD student in Bioinformatics and Computational Biology at Rutgers University, advised by Prof. Antonina Mitrofanova. I work on building machine learning models based on molecular mechanisms for novel biomarker discovery of cancer progression and treatment response.
 
 Before joining Rutgers, I graduated bachelors and masters in applied physics and math program at Moscow Institute of Physics and Technology. 
 
-Outside of research, I like to participate in ML competitions on Kaggle platform (link).
+Outside of research, I like to participate in ML competitions on Kaggle platform.
 
 In my free time, I love exercising (gym, swimming, running) and mountain hiking.
 
