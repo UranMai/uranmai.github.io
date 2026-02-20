@@ -147,12 +147,15 @@
       "name": "NUAK2 is a therapeutically tractable regulator of RNA splicing and tumor progression in neuroendocrine prostate cancer",
       "publisher": "bioRxiv Preprint",
       "releaseDate": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41292858/",
       "summary": "Umar Mehraj, Uran Maimekov, Shaista Manzoor, Emily Cordova, Manasiben Patel, Ikeer Y. Mancera-Ortiz, Stefanie Howell, Zachary W. Davis-Gilbert, Mu-En Wang, Ming Chen, Jung Wook Park, Yuzhuo Wang, Andrew J. Armstrong, Jiaoti Huang, David H. Drewry, Antonina Mitrofanova, Everardo Macias"
     },
     {
       "name": "Manuscript in preparation: Machine learning framework for mRNA alternative splicing analysis identifies a signature of progression in colorectal adenocarcinoma",
-      "publisher": "-",
-      "releaseDate": "2026"
+      "publisher": "Nature Scientific Reports",
+      "releaseDate": "2026",
+      "url": "https://www.nature.com/articles/s41598-026-35903-w#Abs1",
+      "summary": "Uran Maimekov, Mehdi Nosrati, Ahmed Mahmoud, Mainak Mustafi, Michael W. Craige, Frederick Coffman, J. Scott Parrott, Carol Lutz & Antonina Mitrofanova "
     }, 
     {
       "name": "Reducing concentrations of benzo(a)pyrene in gas phase soot particles by using and burning water fuel emulsions",
