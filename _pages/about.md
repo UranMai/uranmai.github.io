@@ -13,11 +13,11 @@ profile:
     <p>Rutgers Health</p>
     <p>Newark, NJ, 07103</p>
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -27,12 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a fourth year PhD student in Bioinformatics and Computational Biology at Rutgers University, advised by Prof. Antonina Mitrofanova. I work on building machine learning models based on molecular mechanisms for novel biomarker discovery of cancer progression and treatment response.
+I am a fourth-year PhD student in Bioinformatics and Computational Biology at Rutgers University, advised by <a href='https://www.mitrofanova-lab.org'>Prof. Antonina Mitrofanova</a>. My research develops machine learning frameworks that integrate molecular interaction networks to identify biomarkers of cancer progression and treatment response, with projects in prostate and colorectal cancer.
 
-Before joining Rutgers, I graduated bachelors and masters in applied physics and math program at Moscow Institute of Physics and Technology. 
+Before joining Rutgers, I completed a BS and MS in Applied Physics and Mathematics and Biophysics at the Moscow Institute of Physics and Technology, with research at Skoltech (graph-based protein structure analysis) and ISTA Vienna (cryo-EM particle picking optimization).
 
-Outside of research, I like to participate in ML competitions on Kaggle platform.
-
-In my free time, I love exercising (gym, swimming, running) and mountain hiking.
+In my spare time, I like to participate in ML competitions/hackathons; I earned a **Silver medal** in the NeurIPS 2024 BELKA Kaggle competition (molecular binding prediction) and a **Bronze medal** in the CAFA 5 Protein Function Prediction challenge. Moreover, I love exercising (gym, swimming, running) and mountain hiking.
 
 Here is my <i class="ai ai-google-scholar-square"></i> [Google Scholar]() and <i class="fa-brands fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/uran-maimekov/).

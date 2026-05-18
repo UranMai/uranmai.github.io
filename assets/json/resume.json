@@ -54,7 +54,7 @@
       "name": "Skolkovo Institute of Science and Technology, Skoltech",
       "location": "Moscow, Russia",
       "position": "Research Fellow",
-      "url": "https://www.ab.kg/en",
+      "url": "https://www.skoltech.ru/en/",
       "startDate": "2019-09-01",
       "endDate": "2021-08-01",
       "highlights": [],
@@ -89,8 +89,7 @@
       "area": "Bioinformatics, Computational Biology",
       "studyType": "PhD",
       "startDate": "2022-09-01",
-      "endDate": "Present",
-      "score": "10",
+      "endDate": "2027-07-01",
       "courses": ["Omics data analysis (bulk RNA-seq, scRNA-seq, Chip-seq, etc.)", "Alternative splicing analysis",  "Statistics", "Machine Learning"]
     },
     {
@@ -100,7 +99,6 @@
       "studyType": "Masters",
       "startDate": "2019-09-01",
       "endDate": "2021-08-01",
-      "score": "10",
       "courses": ["Drug design", "Protein modelling", "Trajectory simulations"]
     }, 
     {
@@ -110,7 +108,6 @@
       "studyType": "Bachelors",
       "startDate": "2015-09-01",
       "endDate": "2019-08-01",
-      "score": "10",
       "courses": ["Advanced physics courses (mechanics, electricity, thermodynamics, optics, quantum physics, etc.)", "Advance math courses (differential equations, calculus, etc.)"]
     }
   ],
@@ -151,10 +148,10 @@
       "summary": "Umar Mehraj, Uran Maimekov, Shaista Manzoor, Emily Cordova, Manasiben Patel, Ikeer Y. Mancera-Ortiz, Stefanie Howell, Zachary W. Davis-Gilbert, Mu-En Wang, Ming Chen, Jung Wook Park, Yuzhuo Wang, Andrew J. Armstrong, Jiaoti Huang, David H. Drewry, Antonina Mitrofanova, Everardo Macias"
     },
     {
-      "name": "Manuscript in preparation: Machine learning framework for mRNA alternative splicing analysis identifies a signature of progression in colorectal adenocarcinoma",
+      "name": "Machine learning framework for mRNA alternative splicing analysis identifies a signature of progression in colorectal adenocarcinoma",
       "publisher": "Nature Scientific Reports",
       "releaseDate": "2026",
-      "url": "https://www.nature.com/articles/s41598-026-35903-w#Abs1",
+      "url": "https://www.nature.com/articles/s41598-026-35903-w",
       "summary": "Uran Maimekov, Mehdi Nosrati, Ahmed Mahmoud, Mainak Mustafi, Michael W. Craige, Frederick Coffman, J. Scott Parrott, Carol Lutz & Antonina Mitrofanova "
     }, 
     {
@@ -203,7 +200,7 @@
       "name": "Languages", 
       "level": "Master",
       "icon": "fa-solid fa-hashtag", 
-      "keywords": ["English", "Kyrgyz", "Russian", "German"]
+      "keywords": ["English (fluent)", "Kyrgyz (fluent)", "Russian (fluent)", "German (basic)"]
     }
   ],
   "projects": [
