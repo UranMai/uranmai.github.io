@@ -9,7 +9,21 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-cv",
+  },{id: "nav-publications",
+          title: "publications",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/publications/";
+          },
+        },{id: "nav-projects",
+          title: "projects",
+          description: "A growing collection of your cool projects.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
+        },{id: "nav-cv",
           title: "cv",
           description: "Summary of relevant research and industry experience.",
           section: "Navigation",
@@ -390,24 +404,24 @@ ninja.data = [{
           section: "News",},{id: "news-excited-to-join-alma-ai-inc-startup-in-drug-design-as-an-intern",
           title: 'Excited to join Alma AI, Inc. startup in drug design as an intern....',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-neurips-2024-belka-silver-medal",
+          title: 'NeurIPS 2024 BELKA — Silver Medal',
+          description: "Molecular binding prediction for drug discovery (top 2%, Kaggle)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-cafa-5-bronze-medal",
+          title: 'CAFA 5 — Bronze Medal',
+          description: "Protein function prediction (Kaggle)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-ai-ureteral-injury-prevention-system",
+          title: 'AI Ureteral Injury Prevention System',
+          description: "Rutgers Health Hackathon — surgical AI safety tool",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-biomechanical-ball-controller-in-unity3d",
+          title: 'Biomechanical Ball Controller in Unity3D',
+          description: "Physics-based motion simulation with C#",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-project-5",
