@@ -2,8 +2,8 @@
 layout: page
 title: AI Ureteral Injury Prevention System
 description: Rutgers Health Hackathon — surgical AI safety tool
-importance: 3
-category: research
+importance: 2
+category: projects
 ---
 
 **Event:** Rutgers Health Hackathon
