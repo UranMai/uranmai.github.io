@@ -19,3 +19,5 @@ category: competitions
 - Cross-validation strategy to handle protein-target leakage
 
 **Skills:** PyTorch, PyTorch Geometric, RDKit, XGBoost, Python
+
+{% include figure.liquid path="assets/img/projects_imgs/Kaggle_silver.png" alt="Silver Medal" %}

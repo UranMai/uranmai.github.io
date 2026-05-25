@@ -18,3 +18,5 @@ category: competitions
 - Hierarchical GO structure incorporated via ancestor propagation
 
 **Skills:** PyTorch, ESM-2, scikit-learn, Biopython, Python
+
+{% include figure.liquid path="assets/img/projects_imgs/Kaggle_bronze.png" alt="Bronze Medal" %}
