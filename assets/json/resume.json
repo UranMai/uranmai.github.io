@@ -1,14 +1,14 @@
 {
   "basics": {
     "name": "Uran Maimekov",
-    "label": "PhD student",
+    "label": "PhD Candidate | Bioinformatics, Machine Learning, Cancer Genomics",
     "image": "",
     "email": "um69@gsbs.rutgers.edu",
     "url": "https://uranmai.github.io",
-    "summary": "PhD student in Biomedical Engineering with a focus on bioinformatics and computational analysis of cancer patient data. Experienced in omics analysis, pathway enrichment, and machine learning approaches for studying cancer biology and clinical outcomes.",
+    "summary": "PhD candidate in Bioinformatics and Computational Biology at Rutgers Health developing machine learning and statistical frameworks for cancer genomics, multi-omics integration, biomarker discovery, and treatment-response prediction. Experienced in bulk and single-cell transcriptomics, alternative splicing analysis, survival modeling, pathway enrichment, molecular machine learning, and reproducible computational workflows.",
     "location": {
-      "address": "180 West Market",
-      "postalCode": "NJ 07103",
+      "address": "",
+      "postalCode": "",
       "city": "Newark",
       "countryCode": "US",
       "region": "New Jersey"
@@ -18,10 +18,14 @@
     {
       "name": "School of Graduate Studies, Rutgers Health",
       "location": "Newark, NJ, US",
-      "position": "PhD in Biomedical Engineering",
+      "position": "PhD Researcher, Bioinformatics and Computational Biology",
       "startDate": "2022-09-01",
-      "endDate": "Present",
-      "summary": "Conducting research in cancer bioinformatics, including analysis of high-throughput omics data, pathway enrichment, and machine learning methods to study tumor biology and patient heterogeneity."
+      "summary": "Develop machine learning and statistical methods for cancer genomics, multi-omics integration, biomarker discovery, and treatment-response prediction.",
+      "highlights": [
+        "Developed computational frameworks for analyzing high-throughput cancer omics data, including transcriptomics and alternative splicing.",
+        "Integrated molecular interaction networks with machine learning models to identify candidate biomarkers of cancer progression and treatment response.",
+        "Performed pathway enrichment, survival analysis, and patient-stratification analyses across cancer cohorts."
+      ]
     }, 
     {
       "name": "Alma AI, Inc. startup company",
@@ -29,8 +33,12 @@
       "position": "Intern",
       "url": "https://almaaiinc.com",
       "startDate": "2025-11-01",
-      "endDate": "Present",
-      "highlights": ["Fine-tuning protein models by preparing datasets, running training pipelines, and benchmarking model performance", "Analyze results, identify failure cases, and propose improvements to enhance predictive accuracy on therapeutic tasks."]
+      "summary": "Fine-tune and evaluate protein language models (TxGemma) for therapeutic machine learning tasks.",
+      "highlights": [
+        "Prepared biological sequence datasets for protein model fine-tuning and benchmarking.",
+        "Ran training and evaluation pipelines to assess model performance across therapeutic prediction tasks.",
+        "Analyzed model failure cases and proposed improvements to data processing, evaluation strategy, and predictive performance."
+      ]
     }, 
     {
       "name": "Johnson and Johnson (J&J)",
@@ -39,7 +47,12 @@
       "url": "https://www.jnj.com",
       "startDate": "2025-05-01",
       "endDate": "2025-08-01",
-      "summary": "Conducted single-cell transcriptomic and co-expression analyses of inhibitory immune receptors across multiple immunological diseases, supporting translational immunology research."
+      "summary": "Conducted single-cell transcriptomic and co-expression analyses of inhibitory immune receptors across immunological disease contexts.",
+      "highlights": [
+        "Analyzed single-cell RNA-seq datasets to characterize inhibitory immune receptor expression across immune cell populations.",
+        "Built co-expression analysis workflows to identify receptor-associated transcriptional programs.",
+        "Generated visualizations and biological interpretations supporting translational immunology research."
+      ]
     },
     {
       "name": "Ayil Bank",
@@ -90,34 +103,32 @@
       "studyType": "PhD",
       "startDate": "2022-09-01",
       "endDate": "2027-07-01",
-      "courses": ["Omics data analysis (bulk RNA-seq, scRNA-seq, Chip-seq, etc.)", "Alternative splicing analysis",  "Statistics", "Machine Learning"]
+      "courses": ["Omics data analysis (bulk RNA-seq, scRNA-seq, ChIP-seq, etc.)", "Alternative splicing analysis",  "Statistics", "Machine Learning"]
     },
     {
-      "institution": "Moscow Institue of Physics and Technology, Moscow, Russia", 
+      "institution": "Moscow Institute of Physics and Technology, Moscow, Russia", 
       "location": "Moscow, Russia", 
       "area": "Biophysics",
-      "studyType": "Masters",
+      "studyType": "Master's",
       "startDate": "2019-09-01",
       "endDate": "2021-08-01",
       "courses": ["Drug design", "Protein modelling", "Trajectory simulations"]
     }, 
     {
-      "institution": "Moscow Institue of Physics and Technology, Moscow, Russia", 
+      "institution": "Moscow Institute of Physics and Technology, Moscow, Russia", 
       "location": "Moscow, Russia", 
-      "area": "Applied physics and math",
-      "studyType": "Bachelors",
+      "area": "Applied Physics and Mathematics",
+      "studyType": "Bachelor's",
       "startDate": "2015-09-01",
       "endDate": "2019-08-01",
-      "courses": ["Advanced physics courses (mechanics, electricity, thermodynamics, optics, quantum physics, etc.)", "Advance math courses (differential equations, calculus, etc.)"]
+      "courses": ["Advanced physics courses (mechanics, electricity, thermodynamics, optics, quantum physics, etc.)", "Advanced math courses (differential equations, calculus, etc.)"]
     }
   ],
   "awards": [
     {
       "title": "Gallo Award for outstanding cancer research",
       "date": "2025-05-22",
-      "awarder": "The 2025 Annual Retreat on Cancer Research in New Jersey",
-      "url": "",
-      "summary": ""
+      "awarder": "The 2025 Annual Retreat on Cancer Research in New Jersey"
     }, 
     {
       "title": "Poster: Mechanism-centric network-based machine learning algorithm for predictive modeling in oncology", 
@@ -136,7 +147,7 @@
       "date": "2025-01-15 - 2025-01-23",
       "issuer": "SciPhD.com",
       "url": "https://sciphd.com",
-      "icon": "fa-solid fa-location-dot"
+      "icon": "fa-solid fa-certificate"
     }
   ],
   "publications": [
@@ -181,20 +192,38 @@
   ],
   "skills": [
     {
-      "name": "Bioinformatics",
+      "name": "Bioinformatics and Computational Biology",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Bulk and single-cell RNA-seq analysis",
-        "Gene Set Enrichment Analysis (GSEA)",
-        "Seurat"
+        "Bulk RNA-seq",
+        "Single-cell RNA-seq",
+        "Alternative splicing analysis",
+        "Pathway enrichment",
+        "GSEA",
+        "Survival analysis",
+        "Biomarker discovery",
+        "Cancer genomics",
+        "Multi-omics integration"
       ]
     }, 
     {
       "name": "Programming", 
       "level": "Master",
       "icon": "fa-solid fa-hashtag", 
-      "keywords": ["Python", "R", "bash", "PyTorch"]
+      "keywords": [
+        "Python",
+        "R",
+        "Bash",
+        "SQL",
+        "PyTorch",
+        "scikit-learn",
+        "Seurat",
+        "Bioconductor",
+        "RDKit",
+        "Git",
+        "Linux"
+      ]
     },
     {
       "name": "Languages", 
@@ -208,21 +237,47 @@
       "name": "Biomechanical controller of ball in Unity3D game",
       "summary": "Developed a biomechanical controller for a rolling ball in Unity3D using physics-based modeling and C#. Focused on simulating realistic motion and control dynamics.",
       "highlights": ["Unity3D", "Biomechanical Engineering", "C#"],
-      "startDate": "2023-03-01",
-      "endDate": "2023-04-01",
-      "url": "https://uranmai.github.io"
+      "url": "https://uranmai.github.io/projects/4_project/"
     }, 
     {
       "name": "AI Ureteral Injury Prevention System",
       "summary": "Rutgers Health Hackathon"
     }, 
     {
-      "name": "Silver medal: NeurIPS 2024 - Predict New Medicines with BELKA",
-      "summary": "Kaggle competition"
+      "name": "(Silver medal) NeurIPS 2024 BELKA — Molecular Binding Prediction",
+      "summary": "Kaggle solution for predicting small-molecule binding to protein targets using molecular representations and machine learning.",
+      "highlights": [
+        "Modeled molecule-protein binding using SMILES-derived molecular features.",
+        "Used graph neural networks, molecular fingerprints, and ensemble learning approaches.",
+        "Designed validation strategy to reduce leakage and improve generalization across targets."
+      ],
+      "keywords": [
+        "PyTorch",
+        "PyTorch Geometric",
+        "RDKit",
+        "XGBoost",
+        "Molecular ML",
+        "Drug discovery"
+      ],
+      "url": "https://www.kaggle.com/competitions/leash-BELKA"
     }, 
     {
-      "name": "Bronze medal: CAFA 5 Protein Function Prediction", 
-      "summary": "Kaggle competition"
+      "name": "(Bronze medal) CAFA 5 Protein Function Prediction",
+      "summary": "Kaggle solution for large-scale protein function prediction using protein language model embeddings and multi-label classification.",
+      "highlights": [
+        "Used ESM-2 protein language model embeddings as sequence representations.",
+        "Built multi-label classifiers for Gene Ontology term prediction.",
+        "Applied ontology-aware post-processing using GO ancestor propagation."
+      ],
+      "keywords": [
+        "Protein function prediction",
+        "ESM-2",
+        "PyTorch",
+        "scikit-learn",
+        "Biopython",
+        "Multi-label classification"
+      ],
+      "url": "https://www.kaggle.com/competitions/cafa-5-protein-function-prediction"
     }
   ]
 }
