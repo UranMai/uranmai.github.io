@@ -421,7 +421,7 @@ ninja.data = [{
               window.location.href = "/projects/3_project/";
             },},{id: "projects-biomechanical-ball-controller-in-unity3d",
           title: 'Biomechanical Ball Controller in Unity3D',
-          description: "Physics-based motion simulation with C#",
+          description: "Physics-based game controller using IMU/EMG sensors and Leap Motion",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{
