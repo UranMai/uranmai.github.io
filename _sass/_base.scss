@@ -1496,3 +1496,9 @@ figure.cover {
 mjx-container[jax="CHTML"][display="true"] {
   overflow-x: auto;
 }
+
+// Project card image uniform height. Added by me
+.card-img-top {
+  height: 150px;
+  object-fit: cover;
+}

@@ -35,7 +35,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a 4th-year PhD student in Bioinformatics and Computational Biology at Rutgers Health, advised by <a href='https://www.mitrofanova-lab.org'>Prof. Antonina Mitrofanova</a>.
+I am a 4th-year **PhD student in Bioinformatics and Computational Biology at Rutgers Health**, advised by <a href='https://www.mitrofanova-lab.org'>Prof. Antonina Mitrofanova</a>.
 
 **My research** develops machine learning and statistical frameworks for cancer genomics, with a focus on multi-omics integration, biomarker discovery, molecular interaction networks, and treatment-response prediction. I am particularly interested in **building interpretable and reproducible computational methods** that connect molecular mechanisms to clinically relevant cancer phenotypes.
 
@@ -48,6 +48,8 @@ I am a 4th-year PhD student in Bioinformatics and Computational Biology at Rutge
 - Drug discovery machine learning
 - Reproducible computational biology workflows
 
-Before joining Rutgers, I completed a **BS in Applied Physics and Mathematics** and an **MS in Bioinformatics** at the Moscow Institute of Physics and Technology (**MIPT**, Russia). My previous research included graph-based protein structure analysis and cryo-EM particle-picking optimization. In addition to it, I've worked as Data Scientist in a bank.
+Before joining Rutgers, I completed a **BS in Applied Physics and Mathematics** and an **MS in Bioinformatics** at the Moscow Institute of Physics and Technology (MIPT, Russia). My previous research included graph-based protein structure analysis and cryo-EM particle-picking optimization. In addition to it, I've worked as Data Scientist in a bank.
 
 I also participate in **ML competitions and biomedical hackathons**; including a Silver medal in the NeurIPS 2024 BELKA Kaggle competition (molecular binding prediction) and a Bronze medal in the CAFA 5 Protein Function Prediction challenge. Outside research, I enjoy strength training, swimming, running, and mountain hiking.
+
+---

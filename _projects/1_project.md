@@ -2,8 +2,9 @@
 layout: page
 title: NeurIPS 2024 BELKA — Silver Medal
 description: Molecular binding prediction for drug discovery (top 2%, Kaggle)
-importance: 1
+importance: 2
 category: competitions
+img: assets/img/projects_imgs/kaggle_preview.png
 ---
 
 **Competition:** [Predict New Medicines with BELKA](https://www.kaggle.com/competitions/leash-BELKA) — NeurIPS 2024, Kaggle

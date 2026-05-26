@@ -143,8 +143,7 @@
   ],
   "certificates": [
     {
-      "name": "The Business of Science for Scientists",
-      "date": "2025-01-15 - 2025-01-23",
+      "name": "The Business of Science for Scientists (Jan 15–23, 2025)",
       "issuer": "SciPhD.com",
       "url": "https://sciphd.com",
       "icon": "fa-solid fa-certificate"
@@ -236,12 +235,8 @@
     {
       "name": "Biomechanical controller of ball in Unity3D game",
       "summary": "Developed a biomechanical controller for a rolling ball in Unity3D using physics-based modeling and C#. Focused on simulating realistic motion and control dynamics.",
-      "highlights": ["Unity3D", "Biomechanical Engineering", "C#"],
+      "highlights": ["Unity3D", "C#"],
       "url": "https://uranmai.github.io/projects/4_project/"
-    }, 
-    {
-      "name": "AI Ureteral Injury Prevention System",
-      "summary": "Rutgers Health Hackathon"
     }, 
     {
       "name": "(Silver medal) NeurIPS 2024 BELKA — Molecular Binding Prediction",
@@ -259,7 +254,7 @@
         "Molecular ML",
         "Drug discovery"
       ],
-      "url": "https://www.kaggle.com/competitions/leash-BELKA"
+      "url": "https://uranmai.github.io/projects/1_project/"
     }, 
     {
       "name": "(Bronze medal) CAFA 5 Protein Function Prediction",
@@ -277,7 +272,7 @@
         "Biopython",
         "Multi-label classification"
       ],
-      "url": "https://www.kaggle.com/competitions/cafa-5-protein-function-prediction"
+      "url": "https://uranmai.github.io/projects/2_project/"
     }
   ]
 }

@@ -5,8 +5,8 @@ permalink: /projects/
 # description: A growing collection of your cool projects.
 nav: true
 nav_order: 3
-display_categories: [projects, competitions] # work, fun, CHANGE THIS ONE to SHOW CATEGORIES
-horizontal: true
+display_categories: [competitions] # work, fun, projects -- CHANGE THIS ONE to SHOW CATEGORIES
+horizontal: false
 ---
 
 <!-- pages/projects.md -->

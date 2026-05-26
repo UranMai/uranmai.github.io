@@ -2,8 +2,9 @@
 layout: page
 title: CAFA 5 — Bronze Medal
 description: Protein function prediction (Kaggle)
-importance: 2
+importance: 3
 category: competitions
+img: assets/img/projects_imgs/kaggle_preview.png
 ---
 
 **Competition:** [CAFA 5 Protein Function Prediction](https://www.kaggle.com/competitions/cafa-5-protein-function-prediction) — Kaggle
