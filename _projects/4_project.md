@@ -20,7 +20,7 @@ Developed a biomechanical controller for a rolling ball in Unity3D using physics
 
 ### Game setup in Unity3D
 
-{% include video.liquid path="assets/video/first_version_of_game_inUnity.mp4" controls=true autoplay=true loop=true muted=true width="100%" %}
+{% include video.liquid path="assets/video/first_version_of_game_inUnity_compressed.mp4" controls=true autoplay=true loop=true muted=true width="100%" %}
 
 ---
 
