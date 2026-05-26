@@ -9,6 +9,7 @@ img: assets/img/projects_imgs/Preview_ofProject4.png
 
 Developed a biomechanical controller for a rolling ball in Unity3D using physics-based modeling and C#. The project focused on simulating realistic motion dynamics — inertia, surface friction, and directional control — to create responsive and physically plausible movement.
 
+
 **Key aspects:**
 - Custom rigidbody physics controller in C#
 - Biomechanical force model for natural-feeling acceleration and braking
